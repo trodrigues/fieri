@@ -1,12 +1,19 @@
 {
   "name": "fieri",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Because there's nothing you can do about it.",
   "main": "index.js",
   "scripts": {
     "why": "echo \"Because there's nothing you can do about it.\" && exit 0"
   },
-  "keywords": ["Guy", "Fieri", "frosted-tips", "but why", "no really, why", "because there's nothing you can do about it"],
+  "keywords": [
+    "Guy",
+    "Fieri",
+    "frosted-tips",
+    "but why",
+    "no really, why",
+    "because there's nothing you can do about it"
+  ],
   "author": "Lewis Cowper <lewis.cowper@googlemail.com>",
   "license": "MIT"
 }
